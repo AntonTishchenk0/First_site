@@ -1,0 +1,29 @@
+h4 {
+    color: orange;
+}
+
+#first {
+    color: #ccc;
+    font-family: Verdana;
+}
+
+.ass {
+    background-color: green;
+    text-decoration: underline;
+}
+
+h1 {
+
+
+    }
+
+h3 {
+    border: 2px solid black;
+    }
+
+h1 {
+    background-image: url(image/1.jpg);
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+    }
